@@ -12,4 +12,4 @@ The dataset is made available by the Center for Machine Learning and Intelligent
 ### Description: 
 The dataset consists of a total of 11 million labeled samples of Higgs vs background events produced by Monte Carlo simulations. Each sample consists of 28 features. The first 21 features are kinematic properties measured at the level of the detectors. The last seven are functions of the first 21.
 
-** Note that the solution above won the second place
+#### Note that the solution above won the second place
